@@ -78,4 +78,4 @@ pip install -r requirements.txt
 
 ## 📝 License
 This project is under [MIT licences](../LICENSE) <br/>
-[MIT](../LICENSE) © Amaresh Maity
+[MIT](../LICENSE) © [Amaresh Maity](https://github.com/amareshmaity)
