@@ -74,6 +74,7 @@ pip install -r requirements.txt
 * Training Accuracy: 0.97
 * Testing Accuracy: 0.98
 
+
 <br/>
 
 ## 📝 License
