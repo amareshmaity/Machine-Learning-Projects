@@ -36,7 +36,7 @@ The data provided is sourced from a **Mayo Clinic study** on primary biliary cir
 | **Prothrombin**| Prothrombin time [seconds]                                                                                   |
 | **Stage**      | Histologic stage of disease (1, 2, or 3)                                                                     |
 
----
+
 <br/>
 
 ## 🚀 Prerequisites
