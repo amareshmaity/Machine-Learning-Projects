@@ -1,0 +1,8 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+category_encoders
+imbalanced-learn==0.12.4
